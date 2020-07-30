@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Javatech - #1 Indonesian Software House"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; Javatech 2020 all right reserved | Made with Hugo"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
